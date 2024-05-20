@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0c4fbb0-3b40-451b-b054-2cc657f5c2c3" name="Changes" comment="name refactoring">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-turkey/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-turkey/src/main/java/fs/content03/TestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-turkey/src/main/java/fs/content03/TestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-turkey/src/test/java/content06/CreditCalculationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-turkey/src/test/java/content06/CreditCalculationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fs/content03/TestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fs/content03/TestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/content06/CreditCalculationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/content06/CreditCalculationTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2cNAxvfCxxT5FjcuPxlxI7MkiZv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ContentServiceBroken.executor": "Run",
+    "Application.TestDrive.executor": "Run",
+    "Application.fs.content03.TestDrive.executor": "Run",
+    "JUnit.CreditCalculationTest.executor": "Run",
+    "JUnit.CreditCalculationTest.should_throw_illegal_argument_exception_when_amount_less_than_zero.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/workpace-intelliju/java-turkiye/java-turkiye",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.language",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workpace-intelliju\jug-techday\src\main\resources" />
+      <recent name="D:\workpace-intelliju\jug-techday\src\main\java\fs\content08" />
+      <recent name="D:\workpace-intelliju\jug-techday\src\main\java\fs\content07" />
+      <recent name="D:\workpace-intelliju\jug-techday\src\main\java\fs\content06" />
+      <recent name="D:\workpace-intelliju\jug-techday\src\main\java\fs\content05" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workpace-intelliju\jug-techday\src\main\resources\presentation" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fs.content09" />
+      <recent name="content06" />
+      <recent name="fs.content02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CreditCalculationTest.should_throw_illegal_argument_exception_when_amount_less_than_zero">
+    <configuration name="ContentServiceBroken" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fs.content04.ContentServiceBroken" />
+      <module name="jug-techday.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fs.content04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fs.content06.TestDrive" />
+      <module name="jug-techday.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fs.content06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fs.content03.TestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fs.content03.TestDrive" />
+      <module name="jug-techday.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fs.content03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreditCalculationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jug-techday.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="content06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="content06" />
+      <option name="MAIN_CLASS_NAME" value="content06.CreditCalculationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreditCalculationTest.should_throw_illegal_argument_exception_when_amount_less_than_zero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jug-techday.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="content06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="content06" />
+      <option name="MAIN_CLASS_NAME" value="content06.CreditCalculationTest" />
+      <option name="METHOD_NAME" value="should_throw_illegal_argument_exception_when_amount_less_than_zero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CreditCalculationTest.should_throw_illegal_argument_exception_when_amount_less_than_zero" />
+        <item itemvalue="Application.TestDrive" />
+        <item itemvalue="JUnit.CreditCalculationTest" />
+        <item itemvalue="Application.ContentServiceBroken" />
+        <item itemvalue="Application.fs.content03.TestDrive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0c4fbb0-3b40-451b-b054-2cc657f5c2c3" name="Changes" comment="" />
+      <created>1707941913928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707941913928</updated>
+      <workItem from="1707941915049" duration="663000" />
+      <workItem from="1708107120864" duration="600000" />
+      <workItem from="1708152571263" duration="2198000" />
+      <workItem from="1708155921755" duration="624000" />
+      <workItem from="1708342394450" duration="4071000" />
+      <workItem from="1708600533000" duration="129000" />
+      <workItem from="1708628492785" duration="2381000" />
+      <workItem from="1708711627380" duration="2448000" />
+      <workItem from="1708755186013" duration="675000" />
+      <workItem from="1709147077294" duration="1228000" />
+      <workItem from="1709185065590" duration="3197000" />
+      <workItem from="1709271569034" duration="1218000" />
+      <workItem from="1709309780306" duration="619000" />
+      <workItem from="1709363929640" duration="801000" />
+      <workItem from="1709366230305" duration="1888000" />
+      <workItem from="1709845416232" duration="410000" />
+      <workItem from="1712597064572" duration="80000" />
+      <workItem from="1716212885980" duration="186000" />
+      <workItem from="1716223654827" duration="1251000" />
+    </task>
+    <task id="LOCAL-00001" summary="presentation uploaded">
+      <created>1708156326804</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708156326804</updated>
+    </task>
+    <task id="LOCAL-00002" summary="space trims">
+      <created>1708358149450</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708358149450</updated>
+    </task>
+    <task id="LOCAL-00003" summary="name refactoring">
+      <created>1708600636909</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708600636909</updated>
+    </task>
+    <task id="LOCAL-00004" summary="space trims and last updates">
+      <created>1708714379441</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708714379441</updated>
+    </task>
+    <task id="LOCAL-00005" summary="name refactoring">
+      <created>1709188905423</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709188905423</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="presentation uploaded" />
+    <MESSAGE value="space trims" />
+    <MESSAGE value="space trims and last updates" />
+    <MESSAGE value="name refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="name refactoring" />
+  </component>
+</project>
